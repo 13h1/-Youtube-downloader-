@@ -12,7 +12,7 @@ def show_header():
     console.print(
         Panel.fit(
             "[bright_white]🌟 YouTube Downloader 🌟[/bright_white]",
-            subtitle="Made by 1ql",
+            subtitle="Made by 13h1",
             border_style="bright_white",
             padding=(1, 1)
         )
